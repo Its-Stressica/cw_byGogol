@@ -1,0 +1,37 @@
+D:\VisualStudio Projects\Kursach\bin\Debug\Kursach.exe.config
+D:\VisualStudio Projects\Kursach\bin\Debug\Kursach.exe
+D:\VisualStudio Projects\Kursach\bin\Debug\Kursach.pdb
+D:\VisualStudio Projects\Kursach\bin\Debug\ShopNet.dll
+D:\VisualStudio Projects\Kursach\bin\Debug\ShopNet.pdb
+D:\VisualStudio Projects\Kursach\obj\Debug\CourseWork.csproj.AssemblyReference.cache
+D:\VisualStudio Projects\Kursach\obj\Debug\Kursach.Form1.resources
+D:\VisualStudio Projects\Kursach\obj\Debug\Kursach.Form2.resources
+D:\VisualStudio Projects\Kursach\obj\Debug\Kursach.Form3.resources
+D:\VisualStudio Projects\Kursach\obj\Debug\Kursach.Properties.Resources.resources
+D:\VisualStudio Projects\Kursach\obj\Debug\CourseWork.csproj.GenerateResource.cache
+D:\VisualStudio Projects\Kursach\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+D:\VisualStudio Projects\Kursach\obj\Debug\CourseWork.csproj.CopyComplete
+D:\VisualStudio Projects\Kursach\obj\Debug\Kursach.exe
+D:\VisualStudio Projects\Kursach\obj\Debug\Kursach.pdb
+D:\VisualStudio Projects\Kursach\obj\Debug\Kursach.Form4.resources
+D:\VisualStudio Projects\Kursach\obj\Debug\Kursach.Form5.resources
+D:\VisualStudio Projects\Kursach\obj\Debug\Kursach.Form6.resources
+D:\VisualStudio Projects\Kursach\bin\Debug\Newtonsoft.Json.dll
+D:\VisualStudio Projects\Kursach\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\кр\CourseWork\Kursach\bin\Debug\Kursach.exe.config
+C:\Users\user\Desktop\кр\CourseWork\Kursach\bin\Debug\Kursach.exe
+C:\Users\user\Desktop\кр\CourseWork\Kursach\bin\Debug\Kursach.pdb
+C:\Users\user\Desktop\кр\CourseWork\Kursach\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\кр\CourseWork\Kursach\bin\Debug\ShopNet.dll
+C:\Users\user\Desktop\кр\CourseWork\Kursach\bin\Debug\ShopNet.pdb
+C:\Users\user\Desktop\кр\CourseWork\Kursach\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\кр\CourseWork\Kursach\obj\Debug\CourseWork.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\кр\CourseWork\Kursach\obj\Debug\Kursach.Properties.Resources.resources
+C:\Users\user\Desktop\кр\CourseWork\Kursach\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\Users\user\Desktop\кр\CourseWork\Kursach\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\кр\CourseWork\Kursach\obj\Debug\CourseWork.csproj.CopyComplete
+C:\Users\user\Desktop\кр\CourseWork\Kursach\obj\Debug\Kursach.exe
+C:\Users\user\Desktop\кр\CourseWork\Kursach\obj\Debug\Kursach.pdb
+C:\Users\user\Desktop\кр\CourseWork\Kursach\obj\Debug\AbitQueue.AbitQueueForm.resources
+C:\Users\user\Desktop\кр\CourseWork\Kursach\obj\Debug\AbitQueue.AddQueueForm.resources
+C:\Users\user\Desktop\кр\CourseWork\Kursach\obj\Debug\AbitQueue.AbitAddForm.resources
